@@ -1,0 +1,9 @@
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.csprojAssemblyReference.cache
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.csproj.CoreCompileInputs.cache
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.AssemblyInfoInputs.cache
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.AssemblyInfo.cs
+C:\interview\CashRegister\CashRegister\bin\Debug\netstandard2.0\CashRegister.deps.json
+C:\interview\CashRegister\CashRegister\bin\Debug\netstandard2.0\CashRegister.dll
+C:\interview\CashRegister\CashRegister\bin\Debug\netstandard2.0\CashRegister.pdb
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.dll
+C:\interview\CashRegister\CashRegister\obj\Debug\netstandard2.0\CashRegister.pdb
